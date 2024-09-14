@@ -4,7 +4,7 @@ from telebot import types
 from functions import *
 
 
-bot = telebot.TeleBot("7280839195:AAE8vKDiG7UO01Y7NUJ_GXS6xOnhoamArbo")
+bot = telebot.TeleBot("11111111111111")
 age, height, weight, gender, coefficient, mini_cal = 0, 0, 0, 0, 0, 0
 base, norm, protein, fiber, carbs = 0, [0]*3, [0]*3, [0]*3, [0]*3
 
